@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mathieumallet/Documents/youidev/apitrace/lib/highlight/highlight.cpp
+windows.h
+-
+io.h
+-
+stdio.h
+-
+unistd.h
+-
+highlight.hpp
+/Users/mathieumallet/Documents/youidev/apitrace/lib/highlight/highlight.hpp
+
+/Users/mathieumallet/Documents/youidev/apitrace/lib/highlight/highlight.hpp
+iostream
+-
+

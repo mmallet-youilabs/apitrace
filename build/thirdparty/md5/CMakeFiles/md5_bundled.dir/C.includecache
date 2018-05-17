@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mathieumallet/Documents/youidev/apitrace/thirdparty/md5/md5.c
+string.h
+-
+md5.h
+/Users/mathieumallet/Documents/youidev/apitrace/thirdparty/md5/md5.h
+
+/Users/mathieumallet/Documents/youidev/apitrace/thirdparty/md5/md5.h
+stdint.h
+-
+

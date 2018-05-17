@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libimage.a  CMakeFiles/image.dir/image_bmp.cpp.o CMakeFiles/image.dir/image_png.cpp.o CMakeFiles/image.dir/image_pnm.cpp.o CMakeFiles/image.dir/image_raw.cpp.o CMakeFiles/image.dir/image_md5.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libimage.a
