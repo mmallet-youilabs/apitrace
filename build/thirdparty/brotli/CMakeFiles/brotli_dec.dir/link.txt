@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libbrotli_dec.a  CMakeFiles/brotli_dec.dir/c/dec/bit_reader.c.o CMakeFiles/brotli_dec.dir/c/dec/decode.c.o CMakeFiles/brotli_dec.dir/c/dec/huffman.c.o CMakeFiles/brotli_dec.dir/c/dec/state.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libbrotli_dec.a

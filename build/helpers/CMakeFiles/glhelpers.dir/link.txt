@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libglhelpers.a  CMakeFiles/glhelpers.dir/glfeatures.cpp.o CMakeFiles/glhelpers.dir/eglsize.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libglhelpers.a

@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libgltrace_common.a  CMakeFiles/gltrace_common.dir/glcaps.cpp.o CMakeFiles/gltrace_common.dir/config.cpp.o CMakeFiles/gltrace_common.dir/gltrace_arrays.cpp.o CMakeFiles/gltrace_common.dir/gltrace_state.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libgltrace_common.a

@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libsnappy_bundled.a  CMakeFiles/snappy_bundled.dir/snappy-c.cc.o CMakeFiles/snappy_bundled.dir/snappy-sinksource.cc.o CMakeFiles/snappy_bundled.dir/snappy-stubs-internal.cc.o CMakeFiles/snappy_bundled.dir/snappy.cc.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libsnappy_bundled.a

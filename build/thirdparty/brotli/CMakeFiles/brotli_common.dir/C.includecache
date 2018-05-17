@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../thirdparty/brotli/c/include/brotli/port.h
+
+../thirdparty/brotli/c/include/brotli/types.h
+stddef.h
+-
+stdint.h
+-
+
+/Users/mathieumallet/Documents/youidev/apitrace/thirdparty/brotli/c/common/./dictionary.h
+brotli/port.h
+-
+brotli/types.h
+-
+
+/Users/mathieumallet/Documents/youidev/apitrace/thirdparty/brotli/c/common/dictionary.c
+./dictionary.h
+/Users/mathieumallet/Documents/youidev/apitrace/thirdparty/brotli/c/common/./dictionary.h
+
